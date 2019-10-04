@@ -1,5 +1,8 @@
 # Dicee 🎲
 
+## About
+
+Check out the [dart package](https://pub.dev/packages/flutter_otp) developed by me and [Fawaz Hussain](https://github.com/fawazhussain)
 
 ## What you will create
 
